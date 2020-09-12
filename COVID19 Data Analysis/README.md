@@ -4,5 +4,5 @@
 and therefore it had to be cleaned and prepared differently 
 ## Data
 Below are the sources that were used to obtain the data for the project
-[COVID19 Cases and deaths data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
-[HDI data](http://hdr.undp.org/en/data#)
+* [COVID19 Cases and deaths data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+* [HDI data](http://hdr.undp.org/en/data#)
